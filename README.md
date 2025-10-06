@@ -182,11 +182,6 @@ pip install pillow easyocr brisque piqe
 - **Explainable AI**: Attention visualization and model interpretation
 - **Efficient Training**: Knowledge distillation and pruning techniques
 
-## 👨‍🎓 About the Author
-**Rashin Rahnamoun** - Student ID: 400243092
-
-This collection represents a comprehensive journey through modern computer vision, demonstrating progressive learning from fundamental concepts to cutting-edge research implementations.
-
 ## 📄 License
 This project is for educational purposes. Please refer to individual assignment requirements for specific usage guidelines.
 

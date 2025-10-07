@@ -1,7 +1,24 @@
 # Computer Vision Course - Complete Assignment Collection
 
-## 🎯 Overview
-This repository contains a comprehensive collection of Computer Vision assignments covering fundamental image processing techniques, deep learning applications, and advanced generative models. The coursework demonstrates a complete learning journey from traditional computer vision methods to state-of-the-art deep learning approaches.
+## 👋 About Me
+
+Hi! I'm **Rashin Rahnamoun**, a Computer Engineering student at Shahid Beheshti University with a passion for advancing the intersection of artificial intelligence and human understanding. My research focuses on **Natural Language Processing** and **Human-Computer Interaction**, where I strive to create more intuitive and effective AI systems.
+
+### 🏆 Recent Achievements
+- **1st Place Overall** in the LLMs4OL Challenge at **ISWC 2025**
+- **Published researcher** at top-tier conferences including **EMNLP 2025**, **COLING 2025**, and **ACL 2025**
+- **Selected for CVPR AI ART 2025** as technical advisor, bridging technology and creative expression
+- **Gold medalist** in National Entrepreneurship Olympiad with honors from Iran's Minister of Education
+
+### 🔬 Research Impact
+My work spans multiple domains of AI, from developing graph-theoretical frameworks for analyzing causal language models to creating multimodal systems for computational art history. I believe in pushing the boundaries of what's possible while ensuring technology serves human needs effectively.
+
+**Learn more about my research and projects**: [rrahnamoun.github.io](https://rrahnamoun.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=IcH_j1MAAAAJ&hl=en)
+
+---
+
+## 🎯 Repository Overview
+This repository showcases my journey through Computer Vision, containing a comprehensive collection of assignments that demonstrate the evolution from fundamental image processing techniques to cutting-edge generative models. Each project reflects both technical mastery and practical application of computer vision principles.
 
 ## 📁 Project Structure
 ```
